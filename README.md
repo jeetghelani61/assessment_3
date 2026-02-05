@@ -1,16 +1,13 @@
-# ass_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Add new task](screenshots/app_drower.png)
+![Add new task](screenshots/click_home_screen_profile_icon_then_open_profile_screen.png)
+![Add new task](screenshots/dark_mode_profile_screen.png)
+![Add new task](screenshots/empty_SignupScreen.png)
+![Add new task](screenshots/fill_detail_signup_screen.png)
+![Add new task](screenshots/home_screen.png)
+![Add new task](screenshots/icon.png)
+![Add new task](screenshots/my_events_screen.png)
+![Add new task](screenshots/registered_events.png)
+![Add new task](screenshots/slide1.png)
+![Add new task](screenshots/slide2.png)
+![Add new task](screenshots/slide3.png)
+![Add new task](screenshots/white_mode_profile_screen.png)
