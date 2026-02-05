@@ -8,6 +8,6 @@
 ![Add new task](screenshots/my_events_screen.png)
 ![Add new task](screenshots/registered_events.png)
 ![Add new task](screenshots/slide1.png)
-![Add new task](screenshots/slide2.png)
+![Add new task](screenshots/silde2.png)
 ![Add new task](screenshots/slide3.png)
 ![Add new task](screenshots/white_mode_profile_screen.png)
