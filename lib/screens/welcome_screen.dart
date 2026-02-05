@@ -148,7 +148,7 @@ class SplashScreen extends StatelessWidget {
              'assets/intro/event.png',
               width: 120,
               height: 120,
-              color: Colors.white,
+              // color: Colors.white,
             ),
             const SizedBox(height: 20),
             const Text(
